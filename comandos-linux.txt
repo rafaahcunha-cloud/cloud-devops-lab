@@ -1,0 +1,3 @@
+pwd = mostra aonde estou
+ls = lista arquivo e pastas
+cd = muda de diretório
