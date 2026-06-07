@@ -1,3 +1,4 @@
 pwd = mostra aonde estou
 ls = lista arquivo e pastas
 cd = muda de diretório
+git status = mostra o estado do repositorio
